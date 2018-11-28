@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="array_diet_options">
+        <item>@string/type_diet</item>
+        <item>@string/type_regular</item>
+        <item>@string/type_not_applicable</item>
+    </string-array>
+</resources>
